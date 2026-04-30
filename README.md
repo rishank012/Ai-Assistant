@@ -16,7 +16,7 @@ Powered by the Google Gemini API for advanced language and image generation, and
 * **Language:** Python 3.x
 * **AI APIs:** Google Gemini API (Text & Image)
 * **Voice Integration:** `SpeechRecognition`, `pyttsx3`, `playsound`,etc
-* **Other Libraries:** `os`, `threading`, `tkinter`, `pyautogui`, etc
+* **Other Libraries:** `os`, `threading`, `tkinter`, `pyautogui`, `streamlit`, etc
 
 ## 🚀 Installation & Setup
 
