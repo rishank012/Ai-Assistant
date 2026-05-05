@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+pygame
+playsound
+pyautogui
+streamlit
+google-generativeai
